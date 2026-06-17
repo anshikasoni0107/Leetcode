@@ -74,4 +74,5 @@
 |70|Invert Binary Tree|Easy|
 |71|Diameter of Binary Tree|Easy|
 |72|Path Sum|Easy|
+|73|Balanced Binary Tree|Easy|
 
